@@ -1,0 +1,41 @@
+*, body, html{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color: #acebd2; */
+
+}
+
+.card.title{
+  font-size: larger;
+}
+
+
+
+.transis:hover{
+  
+  transform: scale(1.04);
+  transition: 0.5s, ease-in-out;
+  
+}
+
+.des-container{
+ max-height: max-content;
+  height: 100px;
+  
+}
+
+
+@media only screen and (max-width: 480px) {
+  transis:hover{
+  
+    transform: scale(1) !important;
+    transition: 0.5s, ease !important;
+    
+  }
+  .des-margin{
+    margin-top: 8px !important;
+  }
+
+
+}
