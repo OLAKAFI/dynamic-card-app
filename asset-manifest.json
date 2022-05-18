@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dynamic-card-app/static/css/main.4d870050.css",
+    "main.js": "/dynamic-card-app/static/js/main.fb3692c5.js",
+    "static/js/787.c77e2925.chunk.js": "/dynamic-card-app/static/js/787.c77e2925.chunk.js",
+    "index.html": "/dynamic-card-app/index.html",
+    "main.4d870050.css.map": "/dynamic-card-app/static/css/main.4d870050.css.map",
+    "main.fb3692c5.js.map": "/dynamic-card-app/static/js/main.fb3692c5.js.map",
+    "787.c77e2925.chunk.js.map": "/dynamic-card-app/static/js/787.c77e2925.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d870050.css",
+    "static/js/main.fb3692c5.js"
+  ]
+}
